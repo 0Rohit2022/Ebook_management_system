@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ebook: Index </title>
+<%@include file="../WEB-INF/all_component/allCss.jsp" %>
+<style type="text/css">
+.back-img
+{
+background: url("img/book.png");
+    height: 50vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+
+</style>
+</head>
+<body>
+	<%@include file="../WEB-INF/all_component/Navbar.jsp" %>
+	<div class="container-fluid back-img">
+	<h1>EBook Management System</h1>
+	
+	</div>
+</body>
+</html>

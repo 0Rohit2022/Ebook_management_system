@@ -1,0 +1,35 @@
+<!-- Footer -->
+<footer class="footer  text-white py-4 bg-primary">
+    <div class="container">
+        <div class="row">
+            <!-- About Us -->
+            <div class="col-md-4 mb-3">
+                <h5>About Us</h5>
+                <p>I am Java Full Stack Developer</p>
+            </div>
+
+            <!-- Social Media Icons -->
+            <div class="col-md-4 mb-3 text-center">
+                <h5>Follow Us</h5>
+                <a href="#" class="text-white me-2"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-linkedin"></i></a>
+                <a href="#" class="text-white me-2"><i class="fab fa-github"></i></a>
+            </div>
+
+            <!-- Contact Info -->
+            <div class="col-md-4 mb-3">
+                <h5>Contact Us</h5>
+                <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+                <p><i class="fas fa-envelope me-3"></i> info@example.com</p>
+                <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
+            </div>
+        </div>
+
+        <!-- Copyright -->
+        <div class="text-center text-white mt-3">
+            <small>© 2023 Rohit Kumar. All rights reserved.</small>
+        </div>
+    </div>
+</footer>
